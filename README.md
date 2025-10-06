@@ -1,6 +1,9 @@
 # Timer-In-Rust
 Just a crappy, nooby, trash timer.
-To run it (I don't know why you want to).
+make sure you have rust and cargo install,
 
-download the repo. and run the \src\main.rs.
+To run it (I don't know why you want to).
+clone the repo,
+on terminal, locate the folder where you cloned this repo.
+open the terminal at that location and type cargo run.
 
